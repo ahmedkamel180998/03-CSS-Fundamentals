@@ -17,7 +17,6 @@ body {
   background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 30px;
-  height: 80px;
 }
 
 .post-header {
@@ -141,4 +140,11 @@ a:hover {
 a:active {
   background-color: black;
   font-style: italic;
+}
+
+nav a {
+  background-color: orangered;
+  margin: 20px;
+  padding: 20px;
+  display: block;
 }
