@@ -146,5 +146,10 @@ nav a {
   background-color: orangered;
   margin: 20px;
   padding: 20px;
-  display: block;
+  display: inline-block;
+}
+
+nav a:link:last-child {
+  margin-right: 0;
+  padding-right: 0;
 }
